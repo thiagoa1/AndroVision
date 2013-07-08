@@ -8,7 +8,8 @@ Projeto exemplo para as funções do OpenCV 2.4.5 em Android, lançando mão do 
 
 Referências:
 
-https://code.google.com/p/javacv/
+https://code.google.com/p/javacv
+
 http://opencv.org/
 
 http://www.verde.com.br
