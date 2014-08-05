@@ -13,3 +13,6 @@ https://code.google.com/p/javacv
 http://opencv.org/
 
 http://www.verde.com.br
+
+Powered by:
+codeship.io
